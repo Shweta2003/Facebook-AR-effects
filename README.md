@@ -1,7 +1,7 @@
 # Facebook-AR-effects
-##Make your own AR effects which you can use while taking selfies on Facebook and instagram
+## Make your own AR effects which you can use while taking selfies on Facebook and instagram
 
-###Steps to follow:
+### Steps to follow:
 
 1. Install spark AR studio
 
